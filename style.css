@@ -134,7 +134,9 @@
  @media screen and (max-width: 768px) {
    .blog-slider__img {
      transform: translateY(-50%);
-     width: 90%;
+     /* width: 90%; */
+     /* width: 100%; */
+     width: 90px;
   }
 }
  @media screen and (max-width: 576px) {
